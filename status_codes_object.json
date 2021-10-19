@@ -252,7 +252,7 @@
     "444": {
         "category": "Client Error",
         "title": "Connection Closed Without Response",
-        "description": "A non-standard status code used to instruct nginx to close the connection without sending a response to the client, most commonly used to deny malicious or malformed requests.\r\nThis status code is not seen by the client, it only appears in nginx log files.\r\n\r\n"
+        "description": "A non-standard status code used to instruct nginx to close the connection without sending a response to the client, most commonly used to deny malicious or malformed requests.\r\nThis status code is not seen by the client, it only appears in nginx log files."
     },
     "451": {
         "category": "Client Error",
